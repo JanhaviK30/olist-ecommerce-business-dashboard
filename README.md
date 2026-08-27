@@ -1,3 +1,4 @@
+## FIRST DATA ANALYTICS PROJECT
 E-Commerce Sales Analytics Dashboard | Power BI, Python, SQL
 
 Resume bullets:
